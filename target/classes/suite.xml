@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testSuite" parallel="false">
+    <test name="registration">
+        <packages>
+            <package name="io.zeplin.RegistrationTests.*"/>
+            <package name="api.*"/>
+        </packages>
+    </test>
+</suite>

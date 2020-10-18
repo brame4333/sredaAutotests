@@ -1,0 +1,6 @@
+io\zeplin\locators\SignUpForm.class
+io\zeplin\methods\Methods.class
+io\zeplin\locators\BasePage.class
+io\zeplin\steps\Steps.class
+io\zeplin\generate\Generate.class
+io\zeplin\locators\UnivLocators.class
